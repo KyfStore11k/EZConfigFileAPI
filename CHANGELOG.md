@@ -8,10 +8,9 @@ EZConfigFileAPI is a lightweight and efficient YAML configuration management too
 - Supports retrieving and modifying values of various data types
 - Designed to work as an external dependency for other plugins
 ## Changes
-- First stable release of EZConfigFileAPI
-- Introduced ConfigHandler and ConfigData classes for configuration management
-- Implemented methods for loading, saving, setting, and retrieving configuration values
-- Added support for default configuration files
+- Introduced .conf and .properties file support
+- Added Hot reloading
+- Fixed setHeader() functionality
 ## Notes
 This release is compatible with Paper plugins and can be integrated into any project needing YAML configuration management
 Developers can use this API to easily manage plugin settings and configurations
