@@ -34,4 +34,13 @@ public class EZConfigFileAPI {
      * <p>This logger can be used to log info, debug, error, and other levels of logs.</p>
      */
     public final static Logger LOGGER = LoggerFactory.getLogger(IDENTIFER);
+
+    /**
+     * Default constructor for EZConfigFileAPI.
+     * This constructor does not perform any operations, but it is necessary for
+     * initializing an instance of the class, if needed in the future.
+     */
+    public EZConfigFileAPI() {
+        // Default Constructor
+    }
 }
