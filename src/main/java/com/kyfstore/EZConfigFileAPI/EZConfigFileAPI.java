@@ -41,6 +41,5 @@ public class EZConfigFileAPI {
      * initializing an instance of the class, if needed in the future.
      */
     public EZConfigFileAPI() {
-        // Default Constructor
     }
 }
