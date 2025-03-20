@@ -1,4 +1,11 @@
 # EZConfigFileAPI
+
+## Version
+
+[![](https://jitpack.io/v/com.kyfstore/EZConfigFileAPI.svg)](https://jitpack.io/#com.kyfstore/EZConfigFileAPI)
+
+## Description
+
 EZConfigFileAPI is a simple and efficient YAML configuration management API designed for Paper (Spigot-based) Minecraft plugins. It provides an easy way to load, save, modify, and access configuration files without dealing with complex file handling.
 
 ## Features
